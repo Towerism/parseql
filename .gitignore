@@ -1,0 +1,13 @@
+/node_modules
+/lib/*
+!/lib/HiveParser.g4
+!/lib/HiveLexer.g4
+/dist
+/.parcel-cache
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.eslintcache
