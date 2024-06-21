@@ -1,13 +1,12 @@
 {
   "name": "@parseql/trino",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sql parser for trino built with antlr4",
   "packageManager": "yarn@3.2.4",
   "source": "src/index.ts",
   "main": "dist/main.mjs",
   "types": "dist/types/index.d.ts",
   "context": "node",
-  "private": false,
   "publishConfig": {
     "access": "public"
   },
